@@ -13,4 +13,5 @@ Repo that contains all the material for sprites, logos and so on
 SI può anche semplificare
     - erba con righe
     - porte separate (layer diverso) 
+    - palla da calcio
 
